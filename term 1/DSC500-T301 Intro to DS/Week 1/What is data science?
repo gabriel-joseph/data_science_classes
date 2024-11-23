@@ -1,0 +1,31 @@
+Introduction Post
+Hi! My name is Gabriel Vance. I am a software engineer at Northrop Grumman where I work on web apps. In my spare time, I have taught myself some data science and have spent a few years analyzing tabular data from websites like Kaggle and w3schools. I'm interested in the stock market, current events, and understanding human behaviors (such as fear, greed). I'm particularly interested in how we can "tell stories" with data visualization.
+I would consider myself an amateur and am planning to use this course to become a professional that can establish goals for understanding data. I want to learn new methologies, such as when/why we would use Kmeans over gradient boost and vice versa. As a front end developer, I have a passion for data visualization, and I'm also hoping to become better at creating data visuals.
+
+
+
+Team post:
+
+What is data science? When you hear or think about data science, what does that mean to you?
+
+Data science is the discipline of collecting and processing data to extract insights. Data science first begins with asking a question, such as "Is there a correlation between demographics and suicide" or "What are attributes drive up the price of real estate?"
+After establishing a goal or question to answer, data scientists gather data, using various methods such as web crawling, surveys or manual extraction. The data is often in a "raw" state at this point, so data scientists must clean and scale data. Personally, I see the entire process of "raw" unrefined data to clean training data as a massive data pipeline, where several processes can clean and scale the data. Afterwards, we can look for insights, utilizing models and algorithms. We gauge how well the expertise of a data scientist by their careful processes of collecting data, processing it, the accuracy of the models they create, and how well they explain correlations and insights of the data by presenting their findings through data visualization.
+
+
+
+Powerpoint:
+
+Imagine you are trying to explain data science to an executive committee, that knows very little about IT. What basic information should you provide to them? What questions might they have? Based on what you have learned in this first week, create an 8-12 slide presentation that gives a high-level overview of data science. Remember that your audience isn’t technical, so you want to use layman’s terms and examples that will relate to them. If it is helpful, consider an industry these executives might be familiar with to give them some examples of how this would apply to them.
+
+
+History
+What is it?
+Effect on industry
+What are the risks?
+
+What are the benefits?
+Process - Collection
+Process - Training
+Process - Evaluation
+
+Summary

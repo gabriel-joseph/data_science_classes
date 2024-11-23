@@ -1,0 +1,5 @@
+1. Create a GitHub account. Make sure you remember which email address you associated with your GitHub account since this email will be used for GitHub emails. This includes the email stating you’ve been invited to the class repo.
+2. Tell your instructor your GitHub Username through a direct message in MS Teams or email.
+3. Clone the class repository that you are invited to. There is no need to create a new branch or pull request for this class.
+4. Add your PyCharm Program (Hello World program) using the filename structure LAST_NAME_DSC510. This will be a folder within which you will place your content.
+Commit those changes to your cloned copy of the repository and push them to the class repository.
